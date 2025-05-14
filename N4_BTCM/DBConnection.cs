@@ -10,7 +10,7 @@ namespace N4_BTCM
 {
     internal class DBConnection
     {
-        private string connectionString = "Data Source=LITTLEFLOWERRR\\THANHHOA;Initial Catalog=CuaHangThuocBVTV;Integrated Security=True;";
+        private string connectionString = "Data Source=KALINH;Initial Catalog=CuaHangThuocBVTV;Integrated Security=True;";
         public SqlConnection GetConnection()
         {
             SqlConnection conn = new SqlConnection(connectionString);

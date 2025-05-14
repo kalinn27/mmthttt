@@ -87,7 +87,7 @@
             this.txtUsername.Location = new System.Drawing.Point(803, 384);
             this.txtUsername.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(547, 35);
+            this.txtUsername.Size = new System.Drawing.Size(547, 42);
             this.txtUsername.TabIndex = 2;
             // 
             // txtPassword
@@ -97,7 +97,7 @@
             this.txtPassword.Margin = new System.Windows.Forms.Padding(6, 5, 6, 5);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '●';
-            this.txtPassword.Size = new System.Drawing.Size(547, 35);
+            this.txtPassword.Size = new System.Drawing.Size(547, 42);
             this.txtPassword.TabIndex = 4;
             // 
             // chkRemember
@@ -172,10 +172,10 @@
             // Login
             // 
             this.AcceptButton = this.btnLogin;
-            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MintCream;
-            this.ClientSize = new System.Drawing.Size(1924, 1061);
+            this.ClientSize = new System.Drawing.Size(1924, 1055);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblTitle);
             this.Controls.Add(this.lblUsername);
