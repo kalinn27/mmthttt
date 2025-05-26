@@ -3,109 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|c:\\users\\admin\\source\\repos\\n4_btcm_mmt-httt\\n4_btcm\\uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:uc_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\uc_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:uc_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|c:\\users\\admin\\source\\repos\\n4_btcm_mmt-httt\\n4_btcm\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|c:\\users\\admin\\source\\repos\\n4_btcm_mmt-httt\\n4_btcm\\uc_hosocanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:uc_hosocanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\ucquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:ucquanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|c:\\users\\admin\\source\\repos\\n4_btcm_mmt-httt\\n4_btcm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\uc_hosocanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:uc_hosocanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\uc_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:uc_donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|c:\\users\\admin\\source\\repos\\n4_btcm_mmt-httt\\n4_btcm\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\ucquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:ucquanlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|c:\\users\\admin\\source\\repos\\n4_btcm_mmt-httt\\n4_btcm\\ucquanlyloaithuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:ucquanlyloaithuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\ucquanlyloaithuoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:ucquanlyloaithuoc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\ucthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:ucthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\ucquanlythuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:ucquanlythuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\ucthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:ucthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\ucthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:ucthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\ucquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:ucquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECBC212-F11B-49AB-90BA-BB208867A9B1}|N4_BTCM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 382,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UC_KhachHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_KhachHang.cs",
-              "RelativeDocumentMoniker": "UC_KhachHang.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_KhachHang.cs [Design]*",
-              "RelativeToolTip": "UC_KhachHang.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T01:19:22.685Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DBConnection.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\DBConnection.cs",
-              "RelativeDocumentMoniker": "DBConnection.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\DBConnection.cs",
-              "RelativeToolTip": "DBConnection.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T01:06:29.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T01:05:25.726Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -573,17 +519,105 @@
             {
               "$type": "Bookmark",
               "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_HoSoCaNhan.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_HoSoCaNhan.cs",
+              "RelativeDocumentMoniker": "UC_HoSoCaNhan.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_HoSoCaNhan.cs",
+              "RelativeToolTip": "UC_HoSoCaNhan.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAEwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:57:33.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_DonHang.cs",
+              "RelativeDocumentMoniker": "UC_DonHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_DonHang.cs",
+              "RelativeToolTip": "UC_DonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:24:04.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\KhachHang.cs",
+              "RelativeDocumentMoniker": "KhachHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\KhachHang.cs",
+              "RelativeToolTip": "KhachHang.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:39:21.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:45:04.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:42:46.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_DonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_DonHang.cs",
+              "RelativeDocumentMoniker": "UC_DonHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_DonHang.cs [Design]",
+              "RelativeToolTip": "UC_DonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:28:33.403Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Login.cs",
-              "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Login.cs [Design]",
-              "RelativeToolTip": "Login.cs [Design]",
+              "Title": "UC_HoSoCaNhan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_HoSoCaNhan.cs",
+              "RelativeDocumentMoniker": "UC_HoSoCaNhan.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UC_HoSoCaNhan.cs [Design]",
+              "RelativeToolTip": "UC_HoSoCaNhan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T01:05:13.982Z",
+              "WhenOpened": "2025-05-25T03:07:16.824Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -595,134 +629,34 @@
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCQuanLyKhachHang.cs [Design]",
               "RelativeToolTip": "UCQuanLyKhachHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:11:22.607Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-26T10:50:17.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\MainMenu.cs",
-              "RelativeDocumentMoniker": "MainMenu.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\MainMenu.cs [Design]",
-              "RelativeToolTip": "MainMenu.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "KhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\KhachHang.cs",
+              "RelativeDocumentMoniker": "KhachHang.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\KhachHang.cs [Design]",
+              "RelativeToolTip": "KhachHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:18:08.933Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UCQuanLyLoaiThuoc.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCQuanLyLoaiThuoc.Designer.cs",
-              "RelativeDocumentMoniker": "UCQuanLyLoaiThuoc.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCQuanLyLoaiThuoc.Designer.cs",
-              "RelativeToolTip": "UCQuanLyLoaiThuoc.Designer.cs",
-              "ViewState": "AgIAAOcBAAAAAAAAAAAAAPkBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:11:32.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UCQuanLyHoaDon.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCQuanLyHoaDon.cs",
-              "RelativeDocumentMoniker": "UCQuanLyHoaDon.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCQuanLyHoaDon.cs [Design]",
-              "RelativeToolTip": "UCQuanLyHoaDon.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:11:23.646Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-24T16:37:53.878Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "UCQuanLyLoaiThuoc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCQuanLyLoaiThuoc.cs",
-              "RelativeDocumentMoniker": "UCQuanLyLoaiThuoc.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCQuanLyLoaiThuoc.cs [Design]",
-              "RelativeToolTip": "UCQuanLyLoaiThuoc.cs [Design]",
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:11:20.908Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UCQuanLyNhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCQuanLyNhanVien.cs",
-              "RelativeDocumentMoniker": "UCQuanLyNhanVien.cs",
-              "ToolTip": "D:\\Study\\HAU\\MMT\u0026HTTT\\N4_BTCM_MMT\u0026HTTT\\N4_BTCM\\UCQuanLyNhanVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:11:19.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UCQuanLyThuoc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCQuanLyThuoc.cs",
-              "RelativeDocumentMoniker": "UCQuanLyThuoc.cs",
-              "ToolTip": "D:\\Study\\HAU\\MMT\u0026HTTT\\N4_BTCM_MMT\u0026HTTT\\N4_BTCM\\UCQuanLyThuoc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:11:17.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UCThongKe.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCThongKe.cs",
-              "RelativeDocumentMoniker": "UCThongKe.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCThongKe.cs",
-              "RelativeToolTip": "UCThongKe.cs",
-              "ViewState": "AgIAAMEAAAAAAAAAAAAjwNAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:51:16.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UCThongKe.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCThongKe.Designer.cs",
-              "RelativeDocumentMoniker": "UCThongKe.Designer.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCThongKe.Designer.cs",
-              "RelativeToolTip": "UCThongKe.Designer.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAkwMUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:51:11.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UCThongKe.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\N4_BTCM_MMT-HTTT\\N4_BTCM\\UCThongKe.cs",
-              "RelativeDocumentMoniker": "UCThongKe.cs",
-              "ToolTip": "D:\\Study\\HAU\\MMT\u0026HTTT\\N4_BTCM_MMT\u0026HTTT\\N4_BTCM\\UCThongKe.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:34:41.868Z"
+              "WhenOpened": "2025-05-24T16:43:52.282Z"
             }
           ]
         },
         {
-          "DockedHeight": 18,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 200,
+          "DockedWidth": 73,
           "SelectedChildIndex": -1,
           "Children": [
             {

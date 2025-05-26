@@ -109,4 +109,8 @@ C:\Users\ADMIN\Source\Repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.csproj.Co
 C:\Users\ADMIN\Source\Repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.csproj.Up2Date
 C:\Users\ADMIN\Source\Repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.exe
 C:\Users\ADMIN\Source\Repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.pdb
-C:\Users\ADMIN\Source\Repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.UC_KhachHang.resources
+C:\Users\ADMIN\Source\Repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.UC_HoSoCaNhan.resources
+C:\Users\ADMIN\source\repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.HoSoCaNhan.resources
+C:\Users\ADMIN\Source\Repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.KhachHang.resources
+C:\Users\ADMIN\Source\Repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.KH.resources
+C:\Users\ADMIN\Source\Repos\N4_BTCM_MMT-HTTT\N4_BTCM\obj\Debug\N4_BTCM.UC_DonHang.resources

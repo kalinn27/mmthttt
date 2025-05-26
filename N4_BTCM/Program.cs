@@ -1,5 +1,4 @@
-﻿// File: N4_BTCM/Program.cs
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -18,6 +17,7 @@ namespace N4_BTCM
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
+
             // Bắt đầu với form Login
             Login loginForm = new Login();
 
@@ -34,7 +34,15 @@ namespace N4_BTCM
                 // Nếu login không thành công hoặc người dùng đóng form Login mà không phải OK
                 // thì ứng dụng sẽ thoát
                 Application.Exit();
+
+                //Bỏ qua login, chạy luôn form KhachHang
+                Application.Run(new KhachHang());
+             
+
             }
+
+
         }
     }
 }
+
